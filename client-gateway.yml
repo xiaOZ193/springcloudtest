@@ -1,3 +1,5 @@
+hello: hello spring-cloud-config-client-gateway.yml
+
 spring:
   application:
     name: gateway
